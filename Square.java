@@ -6,6 +6,7 @@ public class Square {
 		int len=10;
 		int bre=20;
 		System.out.println(len*bre);
+		System.out.println("Thanks");
 
 	}
 
